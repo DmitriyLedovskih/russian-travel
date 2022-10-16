@@ -1,0 +1,12 @@
+.place__row_type_header {
+  margin-bottom: 48px;
+  align-items: flex-end;
+}
+
+@media screen and (max-width: 525px) {
+  .place__row_type_header {
+    grid-template-columns: 1fr;
+    margin-bottom: 32px;
+    padding: 0 16px;
+  }
+}

@@ -1,0 +1,14 @@
+.place__website {
+}
+
+@media screen and (max-width: 700px) {
+  .place__website {
+    justify-self: end;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .place__website {
+    justify-self: start;
+  }
+}

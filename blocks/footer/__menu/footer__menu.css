@@ -1,0 +1,12 @@
+.footer__menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 490px) {
+  .footer__menu {
+    flex-direction: column;
+  }
+}

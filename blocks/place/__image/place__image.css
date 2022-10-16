@@ -1,0 +1,17 @@
+.place__image {
+  max-height: 460px;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  .place__image {
+    max-height: 340px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place__image {
+    max-height: 100%;
+  }
+}

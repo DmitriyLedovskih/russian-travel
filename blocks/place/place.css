@@ -1,0 +1,13 @@
+.place {
+  margin-bottom: 80px;
+}
+
+.place:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 425px) {
+  .place {
+    margin-bottom: 50px;
+  }
+}

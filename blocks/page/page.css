@@ -1,12 +1,36 @@
 @font-face {
-  src: url("Inter-Regular.woff2") format("woff2"),
-       url("Inter-Regular.woff") format("woff");
+  src: url("../vendor/fonts/Inter-Regular.woff2") format("woff2"),
+       url("../vendor/fonts/Inter-Regular.woff") format("woff"),
+       url("../vendor/fonts/Inter-Regular.ttf") format("TrueType");
   font-family: 'Inter';
   font-weight: 400;
 }
 
+@font-face {
+  src: url("../vendor/fonts/Inter-Bold.woff2") format("woff2"),
+       url("../vendor/fonts/Inter-Bold.woff") format("woff"),
+       url("../vendor/fonts/Inter-Bold.ttf") format("TrueType");
+  font-family: 'Inter';
+  font-weight: 700;
+}
+
+@font-face {
+  src: url("../vendor/fonts/Inter-Black.woff2") format("woff2"),
+       url("../vendor/fonts/Inter-Black.woff") format("woff"),
+       url("../vendor/fonts/Inter-Bla.ttf") format("TrueType");
+  font-family: 'Inter';
+  font-weight: 900;
+}
+
 .page {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   background-color: #2a2c2f;
-  font-family: 'Inter', sans-serif;
-  margin: 0;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 1185px;
+  margin: 0 auto;
 }
