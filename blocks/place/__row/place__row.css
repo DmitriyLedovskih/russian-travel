@@ -1,6 +1,6 @@
 .place__row {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 42% 45%;
   gap: 40px;
 }
 
@@ -13,5 +13,6 @@
 @media screen and (max-width: 768px) {
   .place__row {
     gap: 28px;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
