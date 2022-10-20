@@ -1,9 +1,9 @@
 .place__link {
   font-weight: 400;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1;
   color: #fff;
-  transition: .5s;
+  transition: opacity .5s;
 }
 
 .place__link:hover {

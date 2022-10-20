@@ -3,9 +3,9 @@
 }
 
 @media screen and (max-width: 768px) {
-  .lead__content {
+  /* .lead__content {
     padding: 0 24px;
-  }
+  } */
 }
 
 @media screen and (max-width: 525px) {

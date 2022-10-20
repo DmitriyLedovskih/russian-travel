@@ -3,6 +3,20 @@
   max-width: 985px;
 }
 
+@media screen and (max-width: 1024px) {
+  .lead {
+    max-width: none;
+    padding: 0 48px;
+    margin-top: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    padding: 0;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .lead {
     margin-bottom: 64px;

@@ -4,21 +4,21 @@
   margin: 0 auto 32px;
   font-weight: 900;
   font-size: 96px;
-  line-height: 100px;
+  line-height: 1.04;
   color: #fff;
 }
 
 @media screen and (max-width: 740px) {
   .lead__title {
     font-size: 54px;
-    line-height: 58px;
+    line-height: 1.07;
   }
 }
 
 @media screen and (max-width: 450px) {
   .lead__title {
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.12;
     margin-bottom: 16px;
   }
 }

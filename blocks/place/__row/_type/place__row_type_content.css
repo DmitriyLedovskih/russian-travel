@@ -1,8 +1,0 @@
-.place__row_type_content {
-}
-
-@media screen and (max-width: 525px) {
-  .place__row_type_content {
-    grid-template-columns: 1fr;
-  }
-}
