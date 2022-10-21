@@ -10,3 +10,9 @@
   max-width: 1185px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1280px) {
+  .page {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,7 @@
+.header__langs-item {
+  margin-right: 18px;
+}
+
+.header__langs-item:last-of-type {
+  margin-right: 0;
+}

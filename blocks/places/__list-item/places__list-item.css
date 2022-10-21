@@ -1,0 +1,15 @@
+.places__list-item {
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 868px) {
+  .places__list-item {
+    margin-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .places__list-item {
+    margin-bottom: 50px;
+  }
+}
