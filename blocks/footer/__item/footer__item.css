@@ -16,3 +16,9 @@
     margin-bottom: 0;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .footer__item {
+    margin-bottom: 29px;
+  }
+}
