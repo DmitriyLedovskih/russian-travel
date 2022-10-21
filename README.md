@@ -4,12 +4,13 @@
 
 ## В проекте используются:
 
-1. HTML
-   * Семантические теги
-   * Файловая структура БЭМ Nested
-2. CSS
-   * Flexbox
-   * Grid
-   * Адаптив
+1. Семантические теги
+2. Файловая структура БЭМ Nested
+3. CSS
+4. Flexbox
+5. Grid
+6. Адаптив
+
+---
 
 [Ссылка на проект](https://dmitriyledovskih.github.io/russian-travel/)
