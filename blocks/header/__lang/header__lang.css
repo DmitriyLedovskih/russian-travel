@@ -5,8 +5,7 @@
   color: #fff;
   text-decoration: none;
   transition: opacity .3s;
-  padding-bottom: 4px;
-  display: block;
+  cursor: pointer;
 }
 
 .header__lang:hover {

@@ -7,7 +7,7 @@
   gap: 48px 40px;
 }
 
-.place:last-child {
+.place:last-of-type {
   margin-bottom: 0;
 }
 

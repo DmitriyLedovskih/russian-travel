@@ -4,6 +4,7 @@
   line-height: 1;
   color: #fff;
   transition: opacity .5s;
+  cursor: pointer;
 }
 
 .place__link:hover {

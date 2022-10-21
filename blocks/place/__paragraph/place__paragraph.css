@@ -17,3 +17,9 @@
     margin: 0 0 30px;
   }
 }
+
+@media screen and (max-width: 568px) {
+  .place__paragraph {
+    padding: 0 16px;
+  }
+}

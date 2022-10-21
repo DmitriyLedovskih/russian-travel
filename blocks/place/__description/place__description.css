@@ -1,8 +1,0 @@
-.place__description {
-}
-
-@media screen and (max-width: 568px) {
-  .place__description {
-    padding: 0 16px;
-  }
-}
