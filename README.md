@@ -1,4 +1,6 @@
-# [Путешествия по России](https://dmitriyledovskih.github.io/russian-travel/)
+# "Путешествия по России".
+
+[Ссылка на проект](https://dmitriyledovskih.github.io/russian-travel)
 
 ## Описание:
 
@@ -6,20 +8,19 @@
 
 Адаптивный сайт о путешествие по России на поезде.
 
-Я сверстал макет из фигмы, и сделал адаптив.
+Этот проект расскажет вам про интересные места России.
 
-## Обложка
+## Технологии:
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-![Обложка](./images/main-cover.png)
-
-## В проекте используются:
+## Закрепленные навыки:
 
 1. Семантические теги
-2. Наименования классов по БЭМ
-3. Файловая структура БЭМ Nested
-4. Flexbox
-5. Grid
-6. Адаптив
+2. Методология БЭМ
+3. Flexbox
+4. Grid
+5. Адаптив
 
 ## Планы:
 
